@@ -1,0 +1,4 @@
+Microsoft Windows [Version 6.1.7600]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+H:\Java\RP>jar cmf Manifest.txt Checkers.jar *.class
