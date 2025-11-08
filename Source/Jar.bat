@@ -1,1 +1,0 @@
-jar cmf Manifest.txt Checkers.jar *.class *.bat

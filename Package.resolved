@@ -1,0 +1,105 @@
+{
+  "originHash" : "a85eb8a40c80ba0d23ae2203497eaefbaa1c10d6d0a5e9fdd8814283183a407e",
+  "pins" : [
+    {
+      "identity" : "swift-collection-tools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Collection-Tools.git",
+      "state" : {
+        "revision" : "1918c72a1dabbc3ffb92b7bd3ab84cb565951e50",
+        "version" : "3.2.0"
+      }
+    },
+    {
+      "identity" : "swift-function-tools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Function-Tools.git",
+      "state" : {
+        "revision" : "a854f4ed89b7e404019b5a09d24e067acc15432d",
+        "version" : "1.2.4"
+      }
+    },
+    {
+      "identity" : "swift-introspection",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Introspection.git",
+      "state" : {
+        "revision" : "0fb8cae64c244137aa8d36ff554f3166bd785be2",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-lazy-containers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Lazy-Containers.git",
+      "state" : {
+        "revision" : "360a35c98992fc53739e884fb0c48e988710fa92",
+        "version" : "4.1.0"
+      }
+    },
+    {
+      "identity" : "swift-optional-tools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Optional-Tools",
+      "state" : {
+        "revision" : "b02158c4563570293cccb9dbe606f066b1b69bf2",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-range-tools",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Range-Tools.git",
+      "state" : {
+        "revision" : "8efcac712d0bd765ac903cb9fd27cc49b6b4ce58",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-safe-collection-access",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Safe-Collection-Access.git",
+      "state" : {
+        "revision" : "fef8e158f44daab66d24cf364a1b441bb64ade39",
+        "version" : "2.3.0"
+      }
+    },
+    {
+      "identity" : "swift-semver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-SemVer.git",
+      "state" : {
+        "revision" : "adcdc0836253c9bbb5b337eaa9d87553012ae248",
+        "version" : "3.0.0-Beta.5"
+      }
+    },
+    {
+      "identity" : "swift-simple-logging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Simple-Logging",
+      "state" : {
+        "revision" : "efdee028f383b0f3c39646a76e16bdd30693f53b",
+        "version" : "0.5.2"
+      }
+    },
+    {
+      "identity" : "swift-special-string",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-Special-String.git",
+      "state" : {
+        "revision" : "7a82d5b07b72aed848b028d3e8bf6d9591ec108a",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-string-integer-access",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RougeWare/Swift-String-Integer-Access.git",
+      "state" : {
+        "revision" : "595374e76274a7e951ba183fdd7f443801091d14",
+        "version" : "2.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
